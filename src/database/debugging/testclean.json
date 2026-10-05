@@ -1,0 +1,128 @@
+{
+    "acanthopterygian": [
+        {
+            "partOfSpeech": "noun",
+            "definitions": [
+                {
+                    "definition": "Any fish of the superorder Acanthopterygii.Brown, Lesley, ed. The Shorter Oxford English Dictionary. 5th. Oxford: Oxford University Press, 2003",
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definitions": [
+                {
+                    "definition": "Similar to an acanthopterygian",
+                    "examples": []
+                }
+            ]
+        }
+    ],
+    "again": [
+        {
+            "partOfSpeech": "adverb",
+            "definitions": [
+                {
+                    "definition": "Another time: ",
+                    "examples": [
+                        "He tangled in tree-tops again and again / And barely missed hitting a tri-motored plane.",
+                        "Johnny said, \"Devil, just come on back if you ever want to try again / I done told you once, you son of a bitch, I'm the best that's ever been.\"",
+                        "The last sentence is so shocking, I have to read it again."
+                    ]
+                },
+                {
+                    "definition": "Back (to a former place or state)",
+                    "examples": [
+                        "The humor of my proposition appealed more strongly to Miss Trevor than I had looked for, and from that time forward she became her old self again;.... Our table in the dining-room became again the abode of scintillating wit and caustic repartee, Farrar bracing up to his old standard, and the demand for seats in the vicinity rose to an animated competition.",
+                        "Thinks I to myself, \"Sol, you're run off your course again. This is a rich man's summer 'cottage'..\" So I started to back away again into the bushes. But I hadn't backed more'n a couple of yards when I see something so amazing that I couldn't help scooching down behind the bayberries and looking at it.",
+                        "Meanwhile Nanny Broome was recovering from her initial panic and seemed anxious to make up for any kudos she might have lost, by exerting her personality to the utmost. She took the policeman's helmet and placed it on a chair, and unfolded his tunic to shake it and fold it up again for him."
+                    ]
+                },
+                {
+                    "definition": "Over and above a factor of one",
+                    "examples": [
+                        "Cirri l-lxxx, 15, about 12mm. long; first two joints short, about twice as broad as long; third about one-third again [=one and one-third times] as long as broad; fourth and fifth the longest, about half again [=one and a half times] as long as broad;."
+                    ]
+                },
+                {
+                    "definition": "Used metalinguistically, with the repetition being in the discussion, or in the linguistic or pragmatic context of the discussion, rather than in the subject of discussion",
+                    "examples": []
+                },
+                {
+                    "definition": "Tell me again, say again; used in asking a question to which one may have already received an answer that one cannot remember",
+                    "examples": []
+                },
+                {
+                    "definition": "I ask again, I say again; used in repeating a question or statement",
+                    "examples": []
+                },
+                {
+                    "definition": "Here too, here also, in this case as well; used in applying a previously made point to a new instance; sometimes preceded by \"here\"",
+                    "examples": [
+                        "A great bargain also had been the excellent Axminster carpet which covered the floor; as, again, the arm-chair in which Bunting now sat forward, staring into the dull, small fire."
+                    ]
+                },
+                {
+                    "definition": "Back in the reverse direction, or to an original starting point",
+                    "examples": []
+                },
+                {
+                    "definition": "In return, as a reciprocal action; back",
+                    "examples": [
+                        "So women are never angrie, but to the end a man should againe be angrie with them, therein imitating the lawes of Love.",
+                        "Thus men are plagued with women, they again with men, when they are of diverse humours and conditions.",
+                        "As he lies in the light before a glaring white target, the black upon him shines again."
+                    ]
+                },
+                {
+                    "definition": "In any other place",
+                    "examples": [
+                        "There is not, in the world again, such a spring and seminary of brave military people as in England, Scotland, and Ireland."
+                    ]
+                },
+                {
+                    "definition": "On the other hand",
+                    "examples": [
+                        "The one is my sovereign...the other again is my kinsman."
+                    ]
+                },
+                {
+                    "definition": "Moreover; besides; further",
+                    "examples": []
+                }
+            ]
+        }
+    ],
+    "cermet": [
+        {
+            "partOfSpeech": "noun",
+            "definitions": [
+                {
+                    "definition": "A composite material composed of ceramic and metal materials, used in such applications as industrial saws and turbine blades",
+                    "examples": [
+                        "The multi-component alloy cermets, made up of different hard materials and binder elements, have high wear-resistance qualities that result in long tool life.",
+                        "Cutting performance of cermets was improved after development of titanium-molybdenum-carbon-nitrogen and titanium-tungsten-carbon-nitrogen compounds with binders containing nickel, molybdenum, cobalt, or a combination thereof (Ref 3, p.91).",
+                        "Among various tribological materials, cermets are known for their excellent wear resistance under unlubricated conditions."
+                    ]
+                }
+            ]
+        }
+    ],
+    "centuried": [
+        {
+            "partOfSpeech": "adjective",
+            "definitions": [
+                {
+                    "definition": "Having existed for centuries; ancient.Oxford English Dictionary, 2nd ed. (1989)",
+                    "examples": [
+                        "To-morrow we'll deliver the matter to you-and the wheels that grind the centuried darkness to destruction will again start a-rolling.",
+                        "Above, the old weathercock groans, but remembers\nCreaking, to turn, in its centuried rust.",
+                        "Than any dropped through centuried silence . . .",
+                        "Here he finds \"concrete existence,\" for instance \"hated irony\" and dialogue and jokes and \"the centuried roots of jazz.\""
+                    ]
+                }
+            ]
+        }
+    ]
+}

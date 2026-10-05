@@ -1,0 +1,31 @@
+PREMISE:
+ - user is prompted with a bunch of words and their definitions, and they must rate the word from 1-5 with 5 being the most difficult and 1 being the least difficult for them
+ - after processing, the user then enters the difficulty they want to work on and the program gives them a finished text file.
+
+HOW TO MAKE THAT HAPPEN:
+ - get database of english words and their definitions
+ - extract information that may pertain to difficulty from each word
+    - word syllable count
+    - usage frequency (how obscure it is)
+    - amount of vowels / consonants? (try both of them separately and then their ratio)
+ - pick maybe 50 words in a way that properly represents the entire database (OMG STATISTICS OMGGGG)
+ - the model must be trained based on the user's difficulty ratings
+    - input is the vectorized information
+    - output is the difficulty rating (1-5)
+    - ground truth is the user's rating
+ - model outputs a rating for the entire database
+ - only the relevant words (with thwe user's selected rating) are outputted for use in the learner program.
+
+ - model
+    - gives a word set to test --> user returns a rating
+    - model looks at the various difficulty factors --> associates that rating with the derived difficulty
+    - kind of binary search ig? if it's close to the derived rating it should give similar words to narrow down the range..
+      .. if not it should give totally different words to test
+
+Notes about the dataset thru the scraper:
+ - \u017f = s 
+ - \u2019 = '
+ - \u2014 = -
+ - \u201c, \u201d = ", "
+ - \u00e6 = ae
+ - ambeer: "the juice from chewing tomato"  WOAHHH

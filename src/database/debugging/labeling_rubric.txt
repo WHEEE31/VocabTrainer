@@ -1,0 +1,30 @@
+RUBRIC FOR LABELING WORD DIFFICULTY
+
+To calculate score: 2 * (usage-register-rarity score) + 1 * (morphological-complexity score) + 2 * (semantic-complexity score)
+
+.                         |----------------------------------|-----------------------------------|-----------------------------------| 
+rubric                       USAGE REGISTER / RARITY            MORPHOLOGICAL COMPLEXITY            SEMANTIC COMPLEXITY        
+.                            (Context and frequency)            (Structure and affixes)             (Meaning deducation)     
+.                                                                                      
+
+--> 0                       Casual speech                       Simple root (1-2 syllables)         Concerete / obvious         
+.                            - do, get, well                     - book, heart, table                - apple, run, chair   
+.
+.
+--> 1                       General media                       1 common affix or compound          (No 1-point tier for this category)    
+.                            - community, development,           - unused, eventful                 
+.                              likely                                                                                       
+.
+--> 2                       Academic / professional             2+ common, OR 1 rare, affix         Abstract but deducible     
+.                            - implementation, jurisdiction      - recommendation, keelage           - plausible, regulate     
+.                                                                                                                               
+.
+--> 3                       Technical jargon                    3+ affixes OR opaque structure      (No 3-point tier for this category)
+.                            - epidemiological, neuro-           - aposematically                    
+.                              -transmitter                                        
+.
+--> 4                       Obscure / archaic                   Fully opaque                        Domain-specific
+.                            - gobemouche, stromatology          - jejune, hessite, gurly            - anastrophe, subreption   
+.                                                                  kummel             
+.
+

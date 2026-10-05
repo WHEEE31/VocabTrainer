@@ -1,0 +1,19 @@
+# Learner (src/learner)
+pandas
+tqdm
+keyboard
+matplotlib
+
+# Dataset build + difficulty model (src/database)
+numpy
+scikit-learn
+torch
+optuna
+lightgbm
+joblib
+nltk
+wordfreq
+fasttext
+requests
+wikitextparser
+openpyxl

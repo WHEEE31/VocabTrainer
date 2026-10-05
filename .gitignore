@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+
+# Third-party downloads (see README > Data for where to get them)
+assets/database/embeddings/
+assets/database/frequency/
+assets/database/truth/
+
+# Large generated intermediates (rebuilt by src/database/rawdataset.py and process.py)
+assets/database/WORDS.jsonl
+assets/database/WORDSfeatures.csv
+assets/database/WORDSprogress.csv
+
+# Model checkpoints and fitted transformers (rebuilt by src/database/model_*.py)
+*.pt
+*.pkl
+
+# Personal learner progress
+assets/learner/user_stats.csv
+
+# Scratch
+src/test.py

@@ -1,0 +1,13 @@
+PREMISE:
+ - vocab.com + knowt learn 
+ - keep track of user stats
+ - HAVE A MACHINE LEARNING MODEL / GENERATIVE MODEL CREATE THE QUESTIONS FOR "WORD IN A SENTENCE" OMG ITS SO GENUIUS
+ - as of 07/18/25 - change of plans! will not have an evaluator, just this learner. the learner will dynamically quiz the user with
+   all of the vocabulary, in a way that helps learning. no need for a separate skill evaluation step.
+
+HOW TO MAKE THAT HAPPEN:
+ - question types all have the word as the question.
+ - definition: asks the user to choose the correct definition for the word
+ - synonym: asks the user to choose the correct / most applicable synonym for the word
+     - the synonym will be an EASY synonym specifically
+     - might add a third, non-mc question type that involves typing an applicable synonym in response..

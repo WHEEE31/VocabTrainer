@@ -1,0 +1,15 @@
+DATABASE {
+    - label whatever needs to be labeled in WORDSlabeling.csv
+    - finish the code for process and get the features
+    - do all the model stuff lmao
+    - refactor the data.py or move stuff to dataset.py and refactor that, so that the same data command 
+      functions can be used by both main.py and by model.py
+}
+
+LEARNER {
+    - don't even think about this before finishing database
+}
+
+FRONTEND {
+    - don't even think about this before finishing learner
+}

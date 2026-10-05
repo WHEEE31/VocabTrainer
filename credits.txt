@@ -1,0 +1,4 @@
+For the words: nltk library (nltk.corpus)
+For the definitions and examples: Wiktionary (best thing ever, double-shout-out to them)
+For the essense of the difficulty concept: "Age-of-acquisition ratings for 30,000 English words" (Kuperman et al., 2012)
+

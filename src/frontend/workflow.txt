@@ -1,0 +1,9 @@
+PREMISE:
+ - login for all users, each user's account setup comes with the evaluator first.
+ - whenever they log in they choose what level of difficulty to practice and based on that it will load their progress so far (or ask to restart)
+ - they always have the ability to reevaluate their difficulty which will reset all progress regarding all of the existing levels
+ - fun things: streaks!! badges/awards!!
+ - details at the bottom pointing to the github, my information, etc
+
+HOW TO MAKE THAT HAPPEN:
+ - uhhhhhhhh
